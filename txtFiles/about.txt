@@ -1,4 +1,4 @@
 CSC211H Fall2021 Honor Project by Min Shin Khant
 Professor: Dr. Azar
-@linkForGit
-@linkForYoutube
+@https://github.com/minshinkhant/OnLearn
+@https://youtu.be/0683ZlEQ2x0
