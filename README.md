@@ -1,5 +1,6 @@
 # OnLearn
-<p> A place to find free learning resources for computer science students. </p> </br>
+<p> A place to find free learning resources for computer science students. </p>
+<p> This is my final project for CSC211H class. </p>
 <p> Learn more about it by clicking the image below.</p>
 
 <a align="center" href= "https://sites.google.com/view/onlearnweb/home" target="_blank">
