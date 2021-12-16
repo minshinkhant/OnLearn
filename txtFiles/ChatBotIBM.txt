@@ -1,0 +1,6 @@
+<h1>IBM ChatBot Tutorial</h1>
+<p> How to build a better chatbot
+
+A chatbot is a support system for your customer service. Using artificial intelligence and natural language processing, your chatbot can simulate conversation with a user through messaging applications, websites, mobile apps and more, giving them accurate and relevant information. By powering your AI chatbot with Watson Assistant, you can avoid the difficulties associated with traditional chatbot building platforms and build a tool that will improve your customer support.
+</p>
+@IBM.com

@@ -1,0 +1,4 @@
+<h1>IBM Design Thinking</h1>
+<p>The current state of the world affects all of us. It fosters uncertainty, creates abnormal conditions, and raises unforeseen challenges.
+We’re reminded that design thinkers have been trained to address uncertainty, work within constraints, and create human-centered solutions. People with a human-centered mindset are primed to solve problems together, with empathy and humility.</p>
+@ibm

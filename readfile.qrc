@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>txtFiles/HtmlCss.txt</file>
+        <file>txtFiles/ChatBotIBM.txt</file>
+        <file>txtFiles/cpp.txt</file>
+        <file>txtFiles/DesignThinkIBM.txt</file>
+        <file>txtFiles/django.txt</file>
+        <file>txtFiles/freecodecamp.txt</file>
+        <file>txtFiles/fullstackopen.txt</file>
+        <file>txtFiles/javascript.txt</file>
+        <file>txtFiles/nodejs.txt</file>
+        <file>txtFiles/nosql.txt</file>
+        <file>txtFiles/odinproject.txt</file>
+        <file>txtFiles/python.txt</file>
+        <file>txtFiles/reactjs.txt</file>
+        <file>txtFiles/sql.txt</file>
+        <file>txtFiles/about.txt</file>
+        <file>txtFiles/onlearn.txt</file>
+        <file>../icon.jpg</file>
+    </qresource>
+</RCC>
